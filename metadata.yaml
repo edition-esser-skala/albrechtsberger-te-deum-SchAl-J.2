@@ -1,19 +1,17 @@
 composer:
-  last:
-  first:
-title:
-id:
-genre:
-scoring:
+  last: Albrechtsberger
+  first: Johann Georg
+title: Te Deum
+id: SchAl J.2
+genre: hymn
+scoring: S, A, T, B (coro), 2 ob, 2 clno (C), timp (C–G), 2 vl, org, b
 license: cc-by-sa-4.0
 sources:
   B1:
-    siglum:
-    shelfmark:
-    date:
-    rism:
-    url:
-    license:
+    siglum: A-Wn
+    shelfmark: Mus.Hs.719
+    url: https://data.onb.ac.at/rec/AC13915794
+    license: public domain
     principal: true
 imslp:
 parts:
