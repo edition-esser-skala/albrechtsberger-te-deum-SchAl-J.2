@@ -5,7 +5,7 @@ Basso = {
     \clef bass
     \key c \major \time 4/4 \autoBeamOff \tempoTeDeum
     R1*2
-    r8 \mvTr c'\fE^\tutti h([ g)] c c h([ g)]
+    r8 \mvDl c'\fE^\tutti h([ g)] c c h([ g)]
     c h a([ d,)] g4 r
     g2 g %5
     g4 g g( fis)

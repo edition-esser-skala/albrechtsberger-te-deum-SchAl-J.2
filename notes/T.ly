@@ -5,7 +5,7 @@ Tenore = {
     \clef "treble_8"
     \key c \major \time 4/4 \autoBeamOff \tempoTeDeum
     R1*2
-    r8 \mvTr c\f^\tutti d([ h)] c e d([ h)]
+    r8 \mvDl c\f^\tutti d([ h)] c e d([ h)]
     c g' e([ d)] d4 r
     g,2 g %5
     g4 g a2\trill
